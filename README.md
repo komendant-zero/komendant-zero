@@ -1,6 +1,5 @@
-```
-k o m e n d a n t - z e r o
-```
+
+## k o m e n d a n t - z e r o
 
 > everything starts from zero.
 
