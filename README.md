@@ -2,25 +2,26 @@
 
 <img src="banner.svg" alt="komendant zero" width="100%" />
 
-<br><br>
+<br><br><br>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" height="26" title="Flutter" alt="Flutter" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" height="26" title="Dart" alt="Dart" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="26" title="Python" alt="Python" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="26" title="Android" alt="Android" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="26" title="Windows" alt="Windows" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ffmpeg/d4deef" height="26" title="FFmpeg" alt="FFmpeg" />
+<h3 align="center">T E C H &nbsp; S T A C K</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-06080d?style=for-the-badge&logo=flutter&logoColor=4f8cff" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-06080d?style=for-the-badge&logo=dart&logoColor=4f8cff" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-06080d?style=for-the-badge&logo=python&logoColor=4f8cff" alt="Python" />
+  <img src="https://img.shields.io/badge/Android-06080d?style=for-the-badge&logo=android&logoColor=4f8cff" alt="Android" />
+  <img src="https://img.shields.io/badge/Windows-06080d?style=for-the-badge&logo=windows&logoColor=4f8cff" alt="Windows" />
+  <img src="https://img.shields.io/badge/FFmpeg-06080d?style=for-the-badge&logo=ffmpeg&logoColor=4f8cff" alt="FFmpeg" />
 </p>
 
 <br>
 
-<p>
-  📍 Based in Russia.
-</p>
+<h3 align="center">I N F O</h3>
 
-<p>
-  <a href="https://komendant-zero.github.io">komendant-zero.github.io</a>
+<p align="center">
+  <a href="https://komendant-zero.github.io"><img src="https://img.shields.io/badge/Portfolio-komendant--zero.github.io-06080d?style=for-the-badge&logo=googlechrome&logoColor=4f8cff" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Location-Russia-06080d?style=for-the-badge&logo=googlemaps&logoColor=4f8cff" alt="Location" />
 </p>
 
 </div>
