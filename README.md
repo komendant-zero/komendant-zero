@@ -3,4 +3,6 @@
 
 > everything starts from zero.
 
-&rarr; [komendant-zero.github.io](https://komendant-zero.github.io)
+Based in Russia.
+
+[komendant-zero.github.io](https://komendant-zero.github.io)
