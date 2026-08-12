@@ -18,14 +18,6 @@
 <br>
 
 <p>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=komendant-zero&show_icons=true&hide_border=true&bg_color=0c101a&title_color=4f8cff&text_color=d4deef&icon_color=4f8cff" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=komendant-zero&layout=compact&hide_border=true&bg_color=0c101a&title_color=4f8cff&text_color=d4deef" height="160" alt="Top Languages" />
-</p>
-
-<br>
-
-<p>
   📍 Based in Russia.
 </p>
 
