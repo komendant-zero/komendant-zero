@@ -115,7 +115,7 @@
     <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
   </text>
   
-  <text x="610" y="376" text-anchor="start" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="11px" fill="#3a4a68" font-style="italic">
+  <text x="590" y="376" text-anchor="start" dominant-baseline="middle" font-family="'Courier New', monospace" font-size="12px" fill="#5a6a88" font-style="italic">
     (или здесь лол)
   </text>
 
