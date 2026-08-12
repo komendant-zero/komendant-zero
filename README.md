@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="banner.jpg" alt="banner" width="100%" />
+
+<br><br>
+
 <h1>k o m e n d a n t - z e r o</h1>
 
-<p><em>everything starts from zero.</em></p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=4000&pause=2000&color=4f8cff&center=true&vCenter=true&width=435&lines=everything+starts+from+zero." alt="everything starts from zero." />
 
-<br>
+<br><br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" height="26" title="Flutter" alt="Flutter" /> &nbsp;&nbsp;&nbsp;
